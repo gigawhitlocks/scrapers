@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 import urllib2
-from pprint import pprint
 from subprocess import call
 def get_images(url):
     print url
